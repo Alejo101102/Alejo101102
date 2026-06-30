@@ -31,9 +31,9 @@ I am a Systems Engineering student at **Universidad del Valle (Univalle)** and a
 
 ### 📌 Featured Projects
 
-- **Monetra** – AI-powered personal finance web app (FastAPI + Firebase + Groq LLM)
-- **IA Recetas** - AI-Powered Food Recommendation App (Flask + Firebase + Gemini LLM)
-- **Interspeaker** - AI-Powered Interview Practice App (Flask + Firebase + Gemini LLM)
+- **Monetra** – AI-powered personal finance web app (FastAPI + Firebase + React.js + Groq LLM)
+- **IA Recetas** - AI-Powered Food Recommendation App (Flask + Firebase + React.js + Gemini LLM)
+- **Interspeaker** - AI-Powered Interview Practice App (Flask + Firebase + React.js + Gemini LLM)
 ---
 
 ### 📫 Contact Me
